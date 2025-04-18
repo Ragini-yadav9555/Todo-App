@@ -1,0 +1,1 @@
+This is a simple ToDo App built using HTML and JavaScript. It allows users to create, manage, and delete their tasks efficiently with an intuitive user interface. The app leverages basic web technologies to provide a seamless experience for task management.
